@@ -14,4 +14,10 @@
         class="kr.tjeit.framgentbasic_20200416.fragments.FirstFragment" />
 
 
+    <fragment
+        android:id="@+id/secondFrag"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        class="kr.tjeit.framgentbasic_20200416.fragments.SecondFragment" />
+
 </LinearLayout>
